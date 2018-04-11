@@ -85,7 +85,7 @@
 	<scm>
 	  <connection>scm:git:git@github.com:realiceman/ACA-nexus.git</connection>
 	  <developerConnection>scm:git:git@github.com:realiceman/ACA-nexus.git</developerConnection>
-	  <url>scm:git:git@github.com:realiceman/ACA-nexus.git</url>
+	  <url>scm:git:git@github.com:realiceman/ACA-nexus.git</url> 
 	</scm>
 
 	<build>
